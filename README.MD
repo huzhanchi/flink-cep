@@ -7,6 +7,9 @@
 * 改进
 
 ![image](https://github.com/huzhanchi/flink-cep/blob/main/images/enhance.png)
+* 在线编排
+
+![image](https://github.com/huzhanchi/flink-cep/blob/main/images/edit.png)
 * 支持用正则表达式表达模式
 ```aidl
 //a，b，c，d，e 五个事件有三个在五分钟内发生就匹配成功
